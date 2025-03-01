@@ -5,7 +5,7 @@
 # It is not recommended for use beyond testing scenarios.
 ##############################################################################
 
-FROM quay.io/fedora/fedora@sha256:a1906442319eea646dcc420cf2f18611fc90357af9d7505faad998e101102525
+FROM quay.io/fedora/fedora@sha256:c524b55bf67120185a82a5e0d85bacde52686e1ee5d574a85d8a7c473f5475b3
 MAINTAINER Luke Hinds <lhinds@redhat.com>
 LABEL version="1.2.0" description="Keylime - Bootstrapping and Maintaining Trust in the Cloud"
 
